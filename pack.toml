@@ -1,0 +1,13 @@
+name = "meowpack"
+author = "masuteri"
+version = "0.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "11e16be7f587bf6aa162e302fe278976d1233c82ad95e75f2bfacf7570e16890"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.145"
