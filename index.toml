@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/create-server.toml"
+hash = "14e9de1c9d7f2f8acce16337aff2a6629599c83a4f6c097d389d74ce521d3e94"
+
+[[files]]
 file = "config/tectonic.json"
 hash = "54beaf0125d47fa2986b88b8bb30b814e26741a461306b2ae819297e930ae406"
 
@@ -125,6 +129,11 @@ hash = "c73fc3680d04bd42fafb0ac3e5e2dfc9e50cff44453ecf91b1bebca6da5107eb"
 metafile = true
 
 [[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "c34ad41e351235b1ca8e026e9fba9b3ee01c42e4933b060f0c870aac3014403a"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "d102275300c327312e3ea9afd6844d4627637cffa68525af69951fe2eeca33b0"
 metafile = true
@@ -162,6 +171,11 @@ metafile = true
 [[files]]
 file = "mods/natures-spirit.pw.toml"
 hash = "e61fc1eb21cd2cc70ded424ac796e94b603818c70a2e13bed8e5a2f3f8bd6c01"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "a28d1582accd0b01aa7f8740d92aaa2b756a9842b5d51896300e8fa1eae9c325"
 metafile = true
 
 [[files]]
@@ -232,4 +246,19 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "0b7e4f9e76ad96ec2f59e05c3b72909960bd22ea8ff97178e6a9293760d003c7"
+metafile = true
+
+[[files]]
+file = "mods/xaeroplus.pw.toml"
+hash = "82ab4b76f46d9d1358bb4ad68da53a75f4fa0b945ca1c3c2a047c936f6beaac8"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "b633b888679fc7f2d54700867320a5371d8de522835976915fc9023b551db63c"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "30e1fceff4fd5d769c044f2f8775656a641bf71993f3246d7965712bf2706afa"
 metafile = true
