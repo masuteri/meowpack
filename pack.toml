@@ -1,12 +1,12 @@
 name = "meowpack"
 author = "masuteri"
-version = "0.3"
+version = "0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b25e536c695eee138300d15fea9c2e41432a75754de4c949e767f6e3e9d97e58"
+hash = "72b71752b6967683258d4709992739d5a1432e9549188996283e66e175688aa9"
 
 [versions]
 minecraft = "1.21.1"

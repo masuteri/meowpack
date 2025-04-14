@@ -9,6 +9,10 @@ file = "config/tectonic.json"
 hash = "54beaf0125d47fa2986b88b8bb30b814e26741a461306b2ae819297e930ae406"
 
 [[files]]
+file = "config/waystones-common.toml"
+hash = "31006da6e3ab6a68ca49d6500cb232cb08d90102a758200ac4f5acc913f823b9"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "5724ca10bd6d37de46834ab762a46f9ce09175f0a4fa0e2ab633846067940c03"
 metafile = true
@@ -25,7 +29,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "0a4d0034c5a1379d5aa57c0a104aaa2adbb98f1e2b89d4ec0b7ef68df2e16a1a"
+hash = "7decaf223cb308d65bf44a7118a2ceb5d26a1bc1be5085c2132fa3035a718cca"
 metafile = true
 
 [[files]]
@@ -44,8 +48,23 @@ hash = "02d3c2c9758fe92e9010111553cbdc4edd009ffc543af0eac41b7b016a7047d1"
 metafile = true
 
 [[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "687fc528377d1dc582f2cf07c72e947622f70fbe1eaaf637692c2138221ff432"
+metafile = true
+
+[[files]]
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "32956e0b85a4631a5c2091bbd64387978970e83c3d6f7654a3a4a8b59ddff0cc"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantable-machinery.pw.toml"
 hash = "4b4936fa626d79fd8008cc8b5b32eff40bef7462b0bee7d4626c88e1f7f7c9ca"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "bc42ebdc34a97009c6a45b8ca9fdac3fa7326d1892f264466163f51cfda802e1"
 metafile = true
 
 [[files]]
@@ -59,13 +78,33 @@ hash = "662e6a8b27bd68bc7565a0d8ff24c8f37956db0eb8589183e61850d03721fb64"
 metafile = true
 
 [[files]]
-file = "mods/create-ultimate-factory.pw.toml"
-hash = "6639c9674f84535d129f619984a3291e8e6294cb017b62a515adce97ffe4c9cd"
+file = "mods/create-renewable-brass.pw.toml"
+hash = "3b00e9a7c19aff6d771ed521b93f93539ebfab424612267db1824322c8ecff15"
 metafile = true
 
 [[files]]
-file = "mods/create-vibrant-vaults.pw.toml"
-hash = "960645d7f385081b108208e58bbbdfc6b93288b7bd7da90e6f229a57b237234a"
+file = "mods/create-renewable-diamonds.pw.toml"
+hash = "e022134de209c9e0029167ae03ce958e6acbb3e77386f9d85a6f9b15ac2cb124"
+metafile = true
+
+[[files]]
+file = "mods/create-renewable-netherite.pw.toml"
+hash = "fe6fce0920157a6773ec96b5469d2a85335fc107d096e731b4d9d8d72d702933"
+metafile = true
+
+[[files]]
+file = "mods/create-simple-ore-doubling.pw.toml"
+hash = "c6ac284e4777bdd7423e4f909b1c29631958c81461fdabd9e5c4b8da053c49eb"
+metafile = true
+
+[[files]]
+file = "mods/create-stones.pw.toml"
+hash = "3c671eb9c049f9cc2863d44754dc4695a7d74874c73b1daafbad85482de9934c"
+metafile = true
+
+[[files]]
+file = "mods/create-ultimate-factory.pw.toml"
+hash = "6639c9674f84535d129f619984a3291e8e6294cb017b62a515adce97ffe4c9cd"
 metafile = true
 
 [[files]]
@@ -115,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "c604862c7db098f8edcfa6aa1ebc4e235b3008fdbc61450c0da9c3c234513a54"
+hash = "15897cc71c88a49247f63648534cc827754b5ef9b5dd9ef732f3796032543aee"
 metafile = true
 
 [[files]]
