@@ -13,6 +13,82 @@ file = "config/waystones-common.toml"
 hash = "31006da6e3ab6a68ca49d6500cb232cb08d90102a758200ac4f5acc913f823b9"
 
 [[files]]
+file = "kubejs/data/renewbrass/recipes/cobbled_deepslate.json"
+hash = "2dac092db12b013fd5b6c2b4b58e0ce0e5bc5e4a5ce6bc40ed52cba1deb15988"
+
+[[files]]
+file = "kubejs/data/renewbrass/recipes/granite.json"
+hash = "5eaf6de718b07746ac3af63596980c8a7061b22d349fa979f91c33057e4bf6fd"
+
+[[files]]
+file = "kubejs/data/renewdiamonds/recipes/diamond.json"
+hash = "6e8f6edd318655b08548c447e22c51526b5264e7e460044fcf6e78bc76018f4c"
+
+[[files]]
+file = "kubejs/data/renewnetherite/recipes/ancient_debris.json"
+hash = "5a5d32d3996f8556e74ed0af8938f10472adbcd44ca3174fc5e7413545bbaad8"
+
+[[files]]
+file = "kubejs/data/stones/recipes/compacting/endstone.json"
+hash = "6bda45fc6888a7f3209ccbf491a668428e9bb5ec2ef00b536fb4dc1aea9d6ae2"
+
+[[files]]
+file = "kubejs/data/stones/recipes/compacting/soul_sand.json"
+hash = "18621ba0280961e4809eb358acdd70ce2322291e3311d816be2bd2b3c47ba80f"
+
+[[files]]
+file = "kubejs/data/stones/recipes/crushing/deepslate.json"
+hash = "7ab1cb05d62588ff476f86f6c5ebc11931f69775b2b541c0b296bfb0d2e9ee8e"
+
+[[files]]
+file = "kubejs/data/stones/recipes/crushing/stone.json"
+hash = "dd8806044ded9cf99d918bdf9d1ff21b800f878961d6ffa5f7564bc8ef723df6"
+
+[[files]]
+file = "kubejs/data/stones/recipes/haunting/bricks.json"
+hash = "d4ca7c25230630dbeaf433acbdcbf5d4758bbf49f7d81f90c03d38934a16fcc5"
+
+[[files]]
+file = "kubejs/data/stones/recipes/milling/soul_soil.json"
+hash = "a5c662aa8750d08243e2cf11104f33901e447b9369349e2c2c8937af3299d96f"
+
+[[files]]
+file = "kubejs/data/stones/recipes/mixing/diorite.json"
+hash = "d4f6881ce6a2a41342eb403580e3a6f934f50739aaf86dd3b1f48413ae6db819"
+
+[[files]]
+file = "kubejs/data/stones/recipes/mixing/dirt.json"
+hash = "44c7e775d4765df7706ddbea3b34c31645cb76d19f610cf06d4164c0f303763f"
+
+[[files]]
+file = "kubejs/data/stones/recipes/mixing/gilded_blackstone.json"
+hash = "041078b8cf1ec16230be36ac8c5b3192d99eee825627b3abc7702ee0d601946a"
+
+[[files]]
+file = "kubejs/data/stones/recipes/mixing/netherrack.json"
+hash = "f297d668284aab275f3c315208a2ef4660ca78af54fb56c31a5eac42e75f1360"
+
+[[files]]
+file = "kubejs/data/stones/recipes/shapeless/tuff.json"
+hash = "98ca343c83430e8e40dabe19393b72320fb5d3e81105b6d0e459e896d9822a4d"
+
+[[files]]
+file = "kubejs/data/stones/recipes/smoking/cobblestone.json"
+hash = "78584e7ba39a06a0ec8889909cf777329c13aa6c2707644ed0adf094d8709fc1"
+
+[[files]]
+file = "kubejs/data/stones/recipes/smoking/stone.json"
+hash = "c5f0f703cd45e9b8ea63af0e9d4e20e738e231a305d920f2d9048e0e446b25dd"
+
+[[files]]
+file = "kubejs/data/stones/recipes/washing/cobbled_deepslate.json"
+hash = "40815e551ad081e893c3bed5c3fcf4e9560acd84f2503ec5a368801af020a469"
+
+[[files]]
+file = "kubejs/data/stones/recipes/washing/deepslate.json"
+hash = "964da619f92e2ace5e672f515ef1bb882209d8b90b9fad2ef34d22b7f72bad8b"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "5724ca10bd6d37de46834ab762a46f9ce09175f0a4fa0e2ab633846067940c03"
 metafile = true
@@ -94,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-simple-ore-doubling.pw.toml"
-hash = "c6ac284e4777bdd7423e4f909b1c29631958c81461fdabd9e5c4b8da053c49eb"
+hash = "740362d3f16e26d9d83802e493848e095c92a49ca339e6bbffd356bb0dd12534"
 metafile = true
 
 [[files]]
