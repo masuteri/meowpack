@@ -5,6 +5,10 @@ file = "config/create-server.toml"
 hash = "14e9de1c9d7f2f8acce16337aff2a6629599c83a4f6c097d389d74ce521d3e94"
 
 [[files]]
+file = "config/create_enchantment_industry-server.toml"
+hash = "76adcbd2861b5d0602bdc85a8832b84560f660cd9ecbb1b7887db18bcb41b653"
+
+[[files]]
 file = "config/tectonic.json"
 hash = "54beaf0125d47fa2986b88b8bb30b814e26741a461306b2ae819297e930ae406"
 
@@ -161,6 +165,11 @@ metafile = true
 [[files]]
 file = "mods/create-ultimate-factory.pw.toml"
 hash = "6639c9674f84535d129f619984a3291e8e6294cb017b62a515adce97ffe4c9cd"
+metafile = true
+
+[[files]]
+file = "mods/create-vibrant-vaults.pw.toml"
+hash = "960645d7f385081b108208e58bbbdfc6b93288b7bd7da90e6f229a57b237234a"
 metafile = true
 
 [[files]]
