@@ -154,28 +154,8 @@ hash = "662e6a8b27bd68bc7565a0d8ff24c8f37956db0eb8589183e61850d03721fb64"
 metafile = true
 
 [[files]]
-file = "mods/create-renewable-brass.pw.toml"
-hash = "3b00e9a7c19aff6d771ed521b93f93539ebfab424612267db1824322c8ecff15"
-metafile = true
-
-[[files]]
-file = "mods/create-renewable-diamonds.pw.toml"
-hash = "e022134de209c9e0029167ae03ce958e6acbb3e77386f9d85a6f9b15ac2cb124"
-metafile = true
-
-[[files]]
-file = "mods/create-renewable-netherite.pw.toml"
-hash = "fe6fce0920157a6773ec96b5469d2a85335fc107d096e731b4d9d8d72d702933"
-metafile = true
-
-[[files]]
 file = "mods/create-simple-ore-doubling.pw.toml"
 hash = "740362d3f16e26d9d83802e493848e095c92a49ca339e6bbffd356bb0dd12534"
-metafile = true
-
-[[files]]
-file = "mods/create-stones.pw.toml"
-hash = "3c671eb9c049f9cc2863d44754dc4695a7d74874c73b1daafbad85482de9934c"
 metafile = true
 
 [[files]]
