@@ -17,6 +17,18 @@ file = "config/waystones-common.toml"
 hash = "eeac7c9445571761d1808475b5d6b462da61ebd8a0525f56f2870469c079a68b"
 
 [[files]]
+file = "kubejs/data/naturesspiritcreatetempfix/recipe/item_application/andesite_casing_from_forge_log.json"
+hash = "a97b475bdcf09545a241c7e03be79dd9ee6395e670529835def9a24c4a1dabe3"
+
+[[files]]
+file = "kubejs/data/naturesspiritcreatetempfix/recipe/item_application/brass_casing_from_forge_log.json"
+hash = "d482d6ccb6d18be00e2711486fed67144f9925b0e4b6e7a7dfd2641db93a2e62"
+
+[[files]]
+file = "kubejs/data/naturesspiritcreatetempfix/recipe/item_application/copper_casing_from_forge_log.json"
+hash = "463eb153843a8a45f334eaaaef62d7f6c93c25bd4234d1a73956f558a61b4d4f"
+
+[[files]]
 file = "kubejs/data/renewbrass/recipes/cobbled_deepslate.json"
 hash = "2dac092db12b013fd5b6c2b4b58e0ce0e5bc5e4a5ce6bc40ed52cba1deb15988"
 
