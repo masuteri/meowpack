@@ -133,11 +133,6 @@ hash = "687fc528377d1dc582f2cf07c72e947622f70fbe1eaaf637692c2138221ff432"
 metafile = true
 
 [[files]]
-file = "mods/create-dreams-and-desires.pw.toml"
-hash = "32956e0b85a4631a5c2091bbd64387978970e83c3d6f7654a3a4a8b59ddff0cc"
-metafile = true
-
-[[files]]
 file = "mods/create-enchantable-machinery.pw.toml"
 hash = "4b4936fa626d79fd8008cc8b5b32eff40bef7462b0bee7d4626c88e1f7f7c9ca"
 metafile = true
@@ -180,6 +175,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "a4c8371232d9f542b180c7bd7e30d84b9e958b97b24af5dde0759ab8e511fb8e"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "1e2db95b596dc6b01af99b03e018a3a8280639bf4e8dfc8ba0b19f471f58f8bf"
 metafile = true
 
 [[files]]
