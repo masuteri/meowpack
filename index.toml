@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "dcaebbfc9433c838cac63dc29953d58f936f270fd9b9b9c624258f8ee7f12306"
+hash = "081fe633c2c73b0d5e37a81d3973502d563f5d545246fde0510a2004ece78f95"
 metafile = true
 
 [[files]]
@@ -141,17 +141,17 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "693012ba9214d67f25565a23f7520eea2f02a0ebaac9d651c232c4b979a28782"
+hash = "218ba62805457529f1efa5f994a4b887695a9c6eab86e5a41550f396ec93d93a"
 metafile = true
 
 [[files]]
 file = "mods/create-enchantable-machinery.pw.toml"
-hash = "de9f32689b7efe1d1be1be6b3936007fa167f843be18a98b1a88fe883196175b"
+hash = "8863222bed372124bd56a9efd9d49be025d96160fc5445fa4721557348fe26f2"
 metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "a3bee1c3fde10e860f7aae9f936bc98f5e6763671cde1282c6df04360112a032"
+hash = "1a31960ee35a5c31f12a7c07f3244f0fbc2c585abdaac33e9d8b64c1745ca1de"
 metafile = true
 
 [[files]]
@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "421c94db76dc6db4cc65cf33e009d9d6ae3eda06f9dfd356929ad01b600f88e8"
+hash = "bbf03bec2bd4927ace16eef106c45b0f3ec53c48d5f43119520123ad98f3fdf1"
 metafile = true
 
 [[files]]
@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "e4cf4684064a36c07714da308974c875612f9d65cbf7decad12ffa48b1a0676d"
+hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
 
 [[files]]
@@ -236,12 +236,12 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "6f3706a34a31f2fd8e22d888512aba7843be995d619a7e9f686c586b9591eaed"
+hash = "8e5da360e375437a904021af1e7eda56fa14f1d68af363f3b6217763c63d3544"
 metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "ffc3bba7927f97cccac6724c85901c148212e9f3c86a420bd4a2a054490a55a8"
+hash = "87d16e6f43df61a8fb025a9977343bc2f026570d198f48d82ef087be0d9e29eb"
 metafile = true
 
 [[files]]
@@ -291,17 +291,17 @@ metafile = true
 
 [[files]]
 file = "mods/natures-spirit.pw.toml"
-hash = "78fc39038b61a4a7173ed3e612a8e1cd91177206e17afcc3aa32f8584966462b"
+hash = "b8f9064996814784164f9bca77c4f47ca2f9588a7cfbd3914172f9e66ed36ce8"
 metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
-hash = "b9d3740cf728902c401d31979dbd62eca6b48d3fcb7fbb52c35be1bc3cabcdfa"
+hash = "044abd44322fdea17184fecefa77b0f0e8bf550161c70518a16917b76821b427"
 metafile = true
 
 [[files]]
 file = "mods/particle-core.pw.toml"
-hash = "eb8840503b4e4c86f4b020dcbdae481153f3d34eb2c8a66acab20644627e9851"
+hash = "73946fc762c8c03bce86fb420893838136413b36fcd49da3a15949de3130456d"
 metafile = true
 
 [[files]]
@@ -356,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "9182e37e5dab02eb88e30a0c1c3c00d3b5121a9c4282205d55416168decaffe4"
+hash = "2d5357d0a4a4a1068b0bc7c5f80dd7cfefc8ed5cd29222827474fd3df262afaf"
 metafile = true
 
 [[files]]
@@ -366,17 +366,17 @@ metafile = true
 
 [[files]]
 file = "mods/toms-storage.pw.toml"
-hash = "fbd28eaa9137396a5dc297cef105bacdc9ddd8dcf534d8556ce9b3d6bbc7542a"
+hash = "33eba62d133ca3ba2113c1cc8a100667ad81c46d5efb9dbb1fdf8f0f57be4393"
 metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "37a1ca433a804308e5b7b7101fb16323ab8a75e1ce523d6c768e83a8533a40bd"
+hash = "e6dac682b8d3b8c050da2b40bc27f1be67aa1433e3c6420a546cc2829a5c6224"
 metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "4e1346a0525a3638c55f02a9bc12c28725ced22f38efd599c8a99e4779b3aca2"
+hash = "bd2909febb142bc3e060bd031038bd4e18d95f746bf8777b80ded4d18085163c"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Nature's Spirit"
-filename = "natures_spirit-2.2.3-1.21.1.jar"
+filename = "natures_spirit-2.2.4-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/WBvnqHfV/versions/VOhE0Y2Y/natures_spirit-2.2.3-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/WBvnqHfV/versions/sUhwOqbY/natures_spirit-2.2.4-1.21.1.jar"
 hash-format = "sha512"
-hash = "34fffa476730955893231f6058f5eaa2137f70d3f539ea3c98e335eca4a6cde382336c0866df7219206dc064a116235304ab37a44b3affe16a3498cb1e941daf"
+hash = "a5a24ddb3f727a970b2218e7399949e717efe8fc4cfc2f11fc5213fc8743a3575a33fbed18eafaba1afc81781111df6f04c911246633361ba1a088bb7fd9a23f"
 
 [update]
 [update.modrinth]
 mod-id = "WBvnqHfV"
-version = "VOhE0Y2Y"
+version = "sUhwOqbY"

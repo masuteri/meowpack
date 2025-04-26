@@ -1,13 +1,13 @@
 name = "Create: Enchantable Machinery"
-filename = "createenchantablemachinery-3.3.0+mc1.21.1-neoforge.jar"
+filename = "createenchantablemachinery-3.3.2+mc1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/eqrvp4NK/versions/WKUoB0vk/createenchantablemachinery-3.3.0%2Bmc1.21.1-neoforge.jar"
+url = "https://cdn.modrinth.com/data/eqrvp4NK/versions/Wl3H8uKl/createenchantablemachinery-3.3.2%2Bmc1.21.1-neoforge.jar"
 hash-format = "sha512"
-hash = "5ab88364a24f0edf405a69a41cb97300d2d3be59166b6ac5b117b0319cd5a802360910a3b0624dff4585db54d5c480a8e0635743d7b1179f1947fde48da3592e"
+hash = "c670d65839350b428b1a3f145bef0da80a79821986a103d4012d927157595f763c9676f536cf3622c797e526a4a319d9a31f8ec38ec138b7cd62dcd4c20416eb"
 
 [update]
 [update.modrinth]
 mod-id = "eqrvp4NK"
-version = "WKUoB0vk"
+version = "Wl3H8uKl"
