@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Aqlf1Shp/versions/bwjdatGD/forgified-fabric-api-0.107.0%2B2.0.26%2B1.21.1.jar"
-hash-format = "sha512"
-hash = "831a854865755cb8ba01f84d3afdc500dfdcf7ff337c56989d2c9ac3fba8d09f22f3391efcbdd9cc2ceae967ae86961d9d5af472ef8a1b9ac1fc5ca511d355fb"
+hash-format = "sha256"
+hash = "12fd4ae0ea0ce2ca92822240367accefe04d89aba6f25c2f28f32c04f0292ce0"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/JWGBpFUP/versions/6Sm3fbJb/create-enchantment-industry-2.0.12.jar"
-hash-format = "sha512"
-hash = "798f41835466fc345b419ebf12008fc8c4babb0b115675ac553191c658f3a7a9bc1e067714c624cdc9f0f359dff68979da5d08ea74122453ce834ff8fb593c98"
+hash-format = "sha256"
+hash = "45707c3fe1d278d0e96d98dade91f52ab3a26872ee7f9d18c0845f714a462f4e"
 
 [update]
 [update.modrinth]
