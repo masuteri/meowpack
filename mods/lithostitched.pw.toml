@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/XaDC71GB/versions/1nTTeEvq/lithostitched-neoforge-1.21.1-1.4.5.jar"
-hash-format = "sha256"
-hash = "ee59843645533798fac422c93a5c47b0726612c29b85721bb59a30ba2be03e31"
+hash-format = "sha1"
+hash = "635dda4cc5f9d4e0ab63a4de39bf69b7493a5624"
 
 [update]
 [update.modrinth]

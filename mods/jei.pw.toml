@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/u6dRKJwZ/versions/TxS03dKM/jei-1.21.1-neoforge-19.21.0.247.jar"
-hash-format = "sha256"
-hash = "413680b163b2f4477409512e393b7f33133c4c395d55bbdf877791008b3ef702"
+hash-format = "sha1"
+hash = "4d9ed6b03c67148ffe7406a84deb168a632e0a60"
 
 [update]
 [update.modrinth]

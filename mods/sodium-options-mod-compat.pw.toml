@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Yg1VT27P/versions/9J41S04O/sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar"
-hash-format = "sha256"
-hash = "fb8a70f4eecf40896c58853473593f43bdeecfeb4b3bc5215647561cd1d39ac3"
+hash-format = "sha1"
+hash = "dac99f27c79816c51bbbd4b4324360a30513fdbb"
 
 [update]
 [update.modrinth]

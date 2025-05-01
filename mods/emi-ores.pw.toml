@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/sG4TqDb8/versions/1jY6MIrK/emi_ores-1.2%2B1.21.1%2Bneoforge.jar"
-hash-format = "sha256"
-hash = "2e8ba2f6f1b023c4f9e7f49c650e3ebae966f8fa30d87d414db78a1063891306"
+hash-format = "sha1"
+hash = "2326620a11ad9ca463ef3a8cfa7d8f5ae169b756"
 
 [update]
 [update.modrinth]

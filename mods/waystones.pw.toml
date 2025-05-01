@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/LOpKHB2A/versions/PV22OGX5/waystones-neoforge-1.21.1-21.1.17.jar"
-hash-format = "sha256"
-hash = "3710ae988b7a40712eeb3f06904516ed1355f3932015b7cc880e3d7d52aa7082"
+hash-format = "sha1"
+hash = "f75f623f342cc765ef6a0c5ffb5b1a6052841809"
 
 [update]
 [update.modrinth]

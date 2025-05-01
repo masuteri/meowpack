@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ordsPcFz/versions/uZAwdzAR/kotlinforforge-5.7.0-all.jar"
-hash-format = "sha256"
-hash = "bf1d4eecc6f3572c8285967207c0ad9b51ea6158e3006689229bbd64d51ffb27"
+hash-format = "sha1"
+hash = "f276d27f2930a44e7224080b5ccdcae4029b4d9a"
 
 [update]
 [update.modrinth]

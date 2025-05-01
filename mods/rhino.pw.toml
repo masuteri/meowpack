@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/sk9knFPE/versions/6ClRsUNJ/rhino-2101.2.7-build.74.jar"
-hash-format = "sha256"
-hash = "68112e2731e58c900f0f2428bf7381d8647b79981df15d0ce62406fbd138c5db"
+hash-format = "sha1"
+hash = "db6aa291c90328611d5e202e71fdbaf1ab227dc0"
 
 [update]
 [update.modrinth]

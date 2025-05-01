@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/7jXyH8Xk/versions/oQcyA8O2/create_simple_ore_doubling-1.5.5-neoforge-1.21.1.jar"
-hash-format = "sha256"
-hash = "f80b83e9c8993f09a38b69b0701ab474a1cc0439e46a4b41070f1d81418fb2d9"
+hash-format = "sha1"
+hash = "1d7918346a1ea2960663233bb672151f91257378"
 
 [update]
 [update.modrinth]

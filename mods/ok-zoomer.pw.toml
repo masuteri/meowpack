@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/aXf2OSFU/versions/9r90qGm7/ok_zoomer-neo-10.0.0-beta.10.jar"
-hash-format = "sha256"
-hash = "655086451f917c1895bf88a4bdb1257ba96dbc4937c81e400daf90def2203b87"
+hash-format = "sha1"
+hash = "265d5d762ed50f5d506c7160f83c22000aa13df4"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/M25bkObt/versions/aatWXjek/sodiumleafculling-neoforge-1.0.1-1.21.1.jar"
-hash-format = "sha256"
-hash = "39c48261ae34a26fcfbf0b64303a5afcc205cb40bb70b88941fced268f600e12"
+hash-format = "sha1"
+hash = "88fa8f0042f9037a81bb500f5e950ffae1ab95f3"
 
 [update]
 [update.modrinth]

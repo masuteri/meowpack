@@ -5,8 +5,8 @@ pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/lWDHr9jE/versions/SEh7nPmu/tectonic-neoforge-1.21.4-2.4.3.jar"
-hash-format = "sha256"
-hash = "b7ed1f39735584e03dccabc71ce7047103e22c3183af90d8c84789516f547754"
+hash-format = "sha1"
+hash = "47e62f696527d3e77e3fad66f847e3caf1db1f37"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/RYtXKJPr/versions/4QqerCZp/gravestone-neoforge-1.21.1-1.0.24.jar"
-hash-format = "sha256"
-hash = "09156cf1284ec7009704483ecd42a969511212f13d96c4bb941d677eb4058b0b"
+hash-format = "sha1"
+hash = "f8235d7b633c42b170bc8c4e6f2906385561238d"
 
 [update]
 [update.modrinth]

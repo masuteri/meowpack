@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ES4twYgt/versions/hZI9L9VQ/create_ranged-1.2.0-neoforge-1.21.1.jar"
-hash-format = "sha256"
-hash = "4e3c43f1ec53e9898838f7ae5eeee21015c1ff1094cb594d7741a993144f2590"
+hash-format = "sha1"
+hash = "3f81cce79b336575ca78ffd2e04dc44889d75dd4"
 
 [update]
 [update.modrinth]

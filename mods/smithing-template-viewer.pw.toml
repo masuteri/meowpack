@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/oJsYTCP3/versions/AGlVHYc2/smithingtemplateviewer-1.0.0.jar"
-hash-format = "sha256"
-hash = "625cdd5e301c2195e375ecf9565d983fbf74dafda83eba4fbca20467e35f4a09"
+hash-format = "sha1"
+hash = "1d9d263fb5a25dabad27d8e169c2f063c15ef56f"
 
 [update]
 [update.modrinth]

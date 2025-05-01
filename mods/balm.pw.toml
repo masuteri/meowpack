@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/MBAkmtvl/versions/RDQPXjgQ/balm-neoforge-1.21.1-21.0.41.jar"
-hash-format = "sha256"
-hash = "87f4e6eec6894e0ba63aa5cefd078a9a7a7d4b9701eb359232e9a3968713a3c9"
+hash-format = "sha1"
+hash = "9c752e8dd8040eba09916da9317c5f17854c1268"
 
 [update]
 [update.modrinth]

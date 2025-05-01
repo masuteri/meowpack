@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/hYykXjDp/versions/q0YufUQB/fzzy_config-0.6.9%2B1.21%2Bneoforge.jar"
-hash-format = "sha256"
-hash = "34fdd3f3dced97b0b9d98194536debdae28350ea0b930f94f14b1b7670ce75a0"
+hash-format = "sha1"
+hash = "5510784a9c9b8488ac76cc7d6d74315418be2b54"
 
 [update]
 [update.modrinth]
