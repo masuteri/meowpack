@@ -190,11 +190,6 @@ hash = "d550dc34fe4206f329ca3a39124ef4893a98a3cc3edc48e82416449971575f30"
 metafile = true
 
 [[files]]
-file = "mods/curios.pw.toml"
-hash = "07913d719d05fa05fa551d123ad1d8206b509437fac2adc793588fe9c5c616f0"
-metafile = true
-
-[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "ac27fbe81085ad6b707953789d14f3a582d6c882996592c43e676bed3fb4b6e9"
 metafile = true
