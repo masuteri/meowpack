@@ -160,6 +160,11 @@ hash = "81ca2a4c6868d4cfe19803faa4c654dc6bcb5f4aaff2131990fb5d3549ad351b"
 metafile = true
 
 [[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "3045c7d7d135212a8ba8b9cce54cc794acb088bf42d5bb6e259d3a0974ec945c"
+metafile = true
+
+[[files]]
 file = "mods/create-ranged.pw.toml"
 hash = "eb4f47f095b17d2fbcc0b19629f0f05dc6d3b60fe5a95eea64b1ac46c1d36547"
 metafile = true
